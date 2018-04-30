@@ -4,6 +4,12 @@ import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 
 /**
+ *      所需要的jar  commons-beanutils-1.8.3.jar
+ *                   commons-collections-3.2.1.jar
+ *                   commons-lang-2.4.jar
+ *                   commons-logging-1.1.3.jar
+ *                   ezmorph-1.0.6.jar
+ *                   json-lib-2.2.2-jdk15.jar
  *      java操作json格式的输出
  *          jsonObject 和 jsonArray
  * */
